@@ -19,28 +19,6 @@ A fictional **retail retail company** faces reporting delays, data silos, and in
 
 <img width="1280" height="556" alt="Architech diagram" src="https://github.com/user-attachments/assets/1614aa20-34b8-4afe-851f-1e0635de20c1" />
 
-🗂️ Project Repository Structure
-
-
-azure-retail-data-pipeline/
-├── README.md
-├── architecture-diagram.png
-├── powerbi/
-│   └── Sales Dashboard.pbix
-├── notebooks/
-│   ├── bronze_ingestion.py
-│   ├── silver_transformation.py
-│   └── gold_modeling.py
-├── ADF Files/
-│   └── retail_pipeline.json
-├── synapse_queries/
-│   └── analytics_queries.sql
-
-
-
-
-
-
 # Tools/Technology used
 
 

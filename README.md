@@ -1,4 +1,4 @@
-# Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project
+# Sales-Data-Analytics-Azure-Data-Engineering-End-to-End-Project(Retail Sales Insights on Azure)
 
 # Project Overview:
 

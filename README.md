@@ -15,6 +15,12 @@ A fictional **retail retail company** faces reporting delays, data silos, and in
 - Deliver interactive dashboards to empower business teams with actionable insights.
 
 
+
+## 🎯 Project Objective
+
+To build a scalable, cloud-native, real-time data engineering pipeline that ingests weather and air quality data every 30 seconds, processes it using Azure Databricks, streams it via Event Hub, securely manages credentials with Key Vault, and delivers live insights and alerts through Power BI and Azure Data Activator.
+
+
 # Architecture diagram Solution 
 
 <img width="1280" height="556" alt="Architech diagram" src="https://github.com/user-attachments/assets/1614aa20-34b8-4afe-851f-1e0635de20c1" />
